@@ -272,4 +272,8 @@
     <string name="no_internet">Tap on a calendar event map icon</string>
     <string name="no_connectivity">Calendar events won\'t appear because your device isn\'t connected to the internet.</string>
 
+    <!--Custom location layer plugin icon-->
+    <string name="tap_the_icon">Tap the location icon!</string>
+    <string name="current_location">Lat: %1$d Long: %2$d\n%3$s</string>
+
 </resources>
