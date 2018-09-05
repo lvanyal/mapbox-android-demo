@@ -272,4 +272,7 @@
     <string name="no_internet">Tap on a calendar event map icon</string>
     <string name="no_connectivity">Calendar events won\'t appear because your device isn\'t connected to the internet.</string>
 
+    <!-- Click to add image -->
+    <string name="file_not_found">File not found</string>
+    <string name="tap_instructions">Tap four points on the map in a CLOCKWISE order</string>
 </resources>
